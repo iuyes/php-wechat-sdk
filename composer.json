@@ -14,8 +14,6 @@
     	"php": ">=5.4.0",
 	    "puzzle/configuration" : "~1.6",
 	    "desarrolla2/cache":  "dev-master",
-        "guzzlehttp/guzzle": "~5.1",
-        "sabre/xml": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.6.*@dev"
