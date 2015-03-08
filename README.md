@@ -1,2 +1,2 @@
-# wechat-php-sdk
+# php-wechat-sdk
 微信公众平台接口，PHP 封装SDK

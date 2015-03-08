@@ -3,7 +3,7 @@
     "descriptions": "This project is a php SDK for wechat development.",
     "keywords": ["php","sdk","wechat","weixin"],
     "license": "MIT",
-		"homepage": "https://github.com/topideas/wechat-php-sdk",
+		"homepage": "https://github.com/topideas/topideas/php-wechat-sdk",
     "authors": [
         {
             "name": "Jobs Long",
