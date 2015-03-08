@@ -1,0 +1,11 @@
+# 消息响应XML模板文件
+tpl:
+  # 回复文本信息
+  text: > 
+    &ltxml&gt
+    &ltToUserName&gt&lt![CDATA[%s]]&gt&lt/ToUserName&gt
+    &ltFromUserName&gt&lt![CDATA[%s]]&gt&lt/FromUserName&gt
+    &ltCreateTime&gt%s&lt/CreateTime&gt
+    &ltMsgType&gt&lt![CDATA[text]]&gt&lt/MsgType&gt
+    &ltContent&gt&lt![CDATA[%s]]&gt&lt/Content&gt
+    &lt/xml&gt
