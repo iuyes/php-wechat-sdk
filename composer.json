@@ -3,18 +3,13 @@
     "descriptions": "This project is a php SDK for wechat development.",
     "keywords": ["php","sdk","wechat","weixin"],
     "license": "MIT",
+		"homepage": "https://github.com/topideas/wechat-php-sdk",
     "authors": [
         {
             "name": "Jobs Long",
             "homepage": "http://jobslong.com"
         }
     ],
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "https://github.com/topideas/php-wechat-sdk"
-		}
-	],
     "require": {
     	"php": ">=5.4.0",
 	    "puzzle/configuration" : "~1.6",
